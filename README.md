@@ -20,3 +20,15 @@
 2. <a href="https://www.hackerrank.com/challenges/time-conversion"> Time Conversion</a>
 3. <a href="https://www.hackerrank.com/challenges/grading"> Grading Students</a>
 4. <a href="https://www.hackerrank.com/challenges/apple-and-orange"> Apple and Oranges </a>
+
+
+### Day-4
+
+1. <a href= "https://www.hackerrank.com/challenges/kangaroo" > Number Line Jumps </a>
+
+2. <a href= "https://www.hackerrank.com/challenges/breaking-best-and-worst-records" > Breaking The Records </a>
+
+3. <a href= "https://www.hackerrank.com/challenges/the-birthday-bar" > Subarray Division </a>
+
+4. <a href= "https://www.hackerrank.com/challenges/divisible-sum-pairs" >Divisible Sum Pairs </a>
+  
